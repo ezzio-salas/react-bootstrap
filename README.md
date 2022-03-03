@@ -2,12 +2,6 @@
 
 > **[Bootstrap 5][bootstrap]** components built with [React][react].
 
-[![GitHub Actions CI status][gh-actions-badge]][gh-actions]
-[![Travis CI Build status][travis-badge]][travis]
-[![npm][npm-badge]][npm]
-[![Codecov][codecov-badge]][codecov]
-[![Discord][discord-badge]][discord]
-[![Netlify][netlify-badge]][netlify]
 
 ## Bootstrap compatibility
 
